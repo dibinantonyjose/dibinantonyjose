@@ -1,4 +1,7 @@
 ### Hola! Soy Dibin
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dibinjose)]()
+
 [![Reading Challenge](https://img.shields.io/badge/Reading%20Challenge-8%2F8-orange?logo=bookStack)](https://www.goodreads.com/user_challenges/30365611) 2021
 
 
